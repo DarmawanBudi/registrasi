@@ -15,17 +15,17 @@
         </a>
         <div>
           <a href>
-            <i class="fa fa-whatsapp fa-fw" style="background-color: rgb(15, 189, 44);"></i> 0896 7148
+            <i class="fa fa-whatsapp fa-fw"></i> 0896 7148
             1943
           </a>
           <br />
           <a href>
-            <i class="fa fa-facebook fa-fw" style="background-color: rgb(6, 6, 216);"></i> alfabank
+            <i class="fa fa-facebook fa-fw"></i> alfabank
             yogyakarta
           </a>
           <br />
           <a href>
-            <i class="fa fa-instagram fa-fw" style="background-color:rgb(194, 34, 23);"></i> @kursuskomputerdijogja
+            <i class="fa fa-instagram fa-fw"></i> @kursuskomputerdijogja
           </a>
         </div>
       </div>
